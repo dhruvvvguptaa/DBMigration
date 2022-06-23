@@ -1,0 +1,16 @@
+fileignoreconfig:
+- filename: src/main/resources/migration/V1.1__CreateTableUsers.sql
+  checksum: e3df8c8e3e0e09c179a4437b6c4bdee14abca4d4c53c3dc7e293697da365ae7c
+- filename: src/main/resources/migration/V1.2__CreateTableProducts.sql
+  checksum: 46ea1891bb9480a7c72fa6b7a978cc2c8598ca07ef7d27f3c1d2e1c1a63ad1f5
+- filename: src/main/resources/migration/V1.3__AlterNameFieldToFullNameInUsersTable.sql
+  checksum: 403b6a04ae405dfe3482b140eae05106682beebbef499f85471d91a6a0aa5484
+- filename: src/main/resources/migration/V1.4__AddPhoneNoFieldToUsersTable.sql
+  checksum: 99e7b0ade624f7ad86682a0b40a44a681ed891f20c3a6b636c7b6fd6fccb9904
+- filename: src/main/resources/migration/V1.5__CreateTableCarts.sql
+  checksum: 6c68b36ada259add4bc2b03b7efb3f749e1e04fa7e31dfd53b25cab7ae156003
+- filename: src/main/resources/migration/V1.6__CreateTableCartItems.sql
+  checksum: bd6283b0ed632d1241bcd771fff35cf1fbda900497c82bc06a960f520b4d7b46
+- filename: .talisman
+  checksum: 27cb6e0514b21952399ab75788202b94d8852717cb6767c8fabc346b47562807
+version: ""
